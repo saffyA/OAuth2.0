@@ -1,2 +1,2 @@
-This project helps to understand how to authenticate using third party OAuth providers like google facebook etc.
+This project helps to understand how to authenticate using third party OAuth providers like google git etc.
 The application is for adding editing deleting restaurants and their menus only by authenticated people.
