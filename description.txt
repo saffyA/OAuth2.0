@@ -1,0 +1,1 @@
+This project helps to understand how to authenticate using third party providers like google facebook etc
