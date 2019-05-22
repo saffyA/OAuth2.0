@@ -1,1 +1,2 @@
-This project helps to understand how to authenticate using third party providers like google facebook etc
+This project helps to understand how to authenticate using third party providers like google facebook etc.
+The application is for adding editing deleting restaurants and their menus only by authenticated people.
